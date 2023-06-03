@@ -1,6 +1,6 @@
 # Text-Convertor
 
-![Text-Convertor Logo](https://example.com/logo.png)
+![Text-Convertor Logo](public/favicon-32x32.png)
 
 Welcome to Text-Convertor! This project aims to provide a simple and efficient way to convert text using various tools and utilities.
 
