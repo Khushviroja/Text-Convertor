@@ -1,5 +1,3 @@
-Sure! Here's an updated and more visually appealing version of the README file:
-
 # Text-Convertor
 
 ![Text-Convertor Logo](https://example.com/logo.png)
